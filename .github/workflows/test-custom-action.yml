@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run custom action
-        uses: ppatel55/custion-action-runner
+        uses: ppatel55/custom-action-runner@main
